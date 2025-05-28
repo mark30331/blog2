@@ -1,0 +1,2 @@
+# blog2
+updated_django_blog_with_features_and_functionalities
