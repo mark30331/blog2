@@ -1,0 +1,4 @@
+virt/
+db.sqlite3
+mysite_data.json
+mysite/.env
